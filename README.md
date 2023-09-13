@@ -18,16 +18,17 @@ The plugin was developed with the performance needs of modern websites in mind, 
 
 ## Installation
 
-1. Upload the .zip file to your site and activate the plugin.
-2. To customize the results display, go to `Settings > C.A.S.R.` in your admin panel.
+1. Download the plugin through [its page on the WordPress plugins directory](https://wordpress.org/plugins/custom-ajax-search-results/).
+2. Upload the .zip file to your site and activate the plugin.
+3. To customize the results display, go to `Settings > C.A.S.R.` in your admin panel.
 
 ## Screenshots
 
-1. Main settings page tab
-2. Post list settings page tab
-3. Search results example 1
-4. Search results example 2
-5. Nothing found
+1. [Main settings page tab](https://ps.w.org/custom-ajax-search-results/assets/screenshot-1.png?rev=2742539)
+2. [Post list settings page tab](https://ps.w.org/custom-ajax-search-results/assets/screenshot-2.png?rev=2742539)
+3. [Search results example 1](https://ps.w.org/custom-ajax-search-results/assets/screenshot-3.png?rev=2742539)
+4. [Search results example 2](https://ps.w.org/custom-ajax-search-results/assets/screenshot-4.png?rev=2742539)
+5. [Nothing found](https://ps.w.org/custom-ajax-search-results/assets/screenshot-5.png?rev=2742539)
 
 ## Changelog
 
