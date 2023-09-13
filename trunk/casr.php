@@ -3,7 +3,7 @@
  * Plugin Name: Custom AJAX Search Results (C.A.S.R.)
  * Description: Insert a search bar with AJAX search results anywhere you want with a shortcode
  * Author: João Santos
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author URI: https://linkedin.com/in/joaovpdls
  * Text Domain: custom-ajax-search-results
  * Domain Path: /languages
